@@ -47,17 +47,17 @@ Built a small transformer from scratch, then fine-tuned it to convert Shakespear
 |:---------|:-------------|
 | Languages | Python, C++, C, SQL |
 | ML/RL | PyTorch, TensorFlow, PPO, Actor-Critic, Meta-Learning, Fine-Tuning |
-| Robotics | MuJoCo, Isaac Sim, ROS/ROS2, SLAM |
+| Robotics | MuJoCo, Isaac Sim, ROS/ROS2, SLAM , Pybullet |
 | Tools | Git, Docker, HuggingFace, LangChain |
 
 ## 📫 Contact
 
 | | |
 |:--|:--|
-| 📧 Email | akshay@syr.edu |
+| 📧 Email | akshay@syr.edu , akshay21021992@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/akshay-02](https://linkedin.com/in/akshay-02) |
 | 📍 Location | Syracuse, NY |
 
 ---
 
-*Currently looking for roles in robotics, RL, and embodied AI where the work actually deploys.*
+
