@@ -29,7 +29,7 @@ My PhD work centered on co-training RL-based grasping policies with adversarial 
 ### Robotic Grasper (2025)
 RL-based grasping system using PPO actor-critic for continuous joint control of Poppy Ergo Jr. Currently extending this to co-train with adversarial object generators.
 
-`Python` `PyTorch` `MuJoCo` `PPO`
+`Python` `PyTorch` `Pybullet` `PPO`
 
 ### Adversarial Object Generator (2024)
 Generates infinite adversarial 3D objects using genetic algorithms and RL to stress-test manipulation policies.
