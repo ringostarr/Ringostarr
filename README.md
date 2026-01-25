@@ -11,7 +11,7 @@ My PhD work centered on co-training RL-based grasping policies with adversarial 
 **Key contributions:**
 - Voxel-based evolutionary generator that creates adversarial 3D objects for manipulation tasks
 - RL-based generator that co-evolves with the learner (90% more efficient than evolutionary sampling)
-- PPO-based grasping policies for continuous joint control in MuJoCo
+- PPO-based grasping policies for continuous joint control in Pybulet
 - Meta-learning algorithms for hierarchical tasks like block stacking
 
 ## 📄 Publications
