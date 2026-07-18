@@ -11,7 +11,7 @@ My PhD work centered on co-training RL-based grasping policies with adversarial 
 ## 📄 Publications
 | Paper | Venue | Year | Link |
 |:------|:------|:----:|:----:|
-| Conserving Fitness Evaluation in Evolutionary Algorithms with RL | ICLR (submitted) | 2026 | |
+| Conserving Fitness Evaluation in Evolutionary Algorithms with RL | AAAI (submitted) | 2027 | |
 | Voxel-Based Evolutionary Data Generator of Adversarial Objects | GECCO | 2025 | [PDF](https://doi.org/10.1145/3712255.3734294) |
 | Voxel-Based Data Generator of Adversarial Objects for Robotic Manipulators | Springer CCIS | 2025 | [PDF](https://link.springer.com/chapter/10.1007/978-3-031-85628-0_10) |
 | Human-like Learning Dynamics in Simulated Humanoid Robots | HCI | 2022 | [PDF](https://link.springer.com/chapter/10.1007/978-3-031-05457-0_19) |
