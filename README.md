@@ -21,6 +21,10 @@ My PhD work centered on co-training RL-based grasping policies with adversarial 
 Benchmarks behavior cloning against residual offline-RL corrections (**AWAC**, **IQL**, **TD3+BC**) on robomimic's `lift-ph` task in robosuite/MuJoCo. A frozen BC policy is wrapped with a small bounded correction head that's trained to improve task success while staying close to demonstrated behavior. A single run trains all variants and prints a side-by-side comparison (success rate, latency, params).
 `Python` `PyTorch` `robosuite` `robomimic` `Offline RL`
 
+### ACT — Action Chunking Transformer (2026)
+Implementation of ACT for imitation-learned robotic pick-and-place in PyBullet. Combines a CVAE with a transformer to model multimodal demonstrations, predicts action chunks to cut compounding error from covariate shift, and uses temporal ensembling at inference for smoother trajectories.
+`Python` `PyTorch` `PyBullet` `CVAE` `Transformers` `Imitation Learning`
+
 ### Robotic Grasper (2025)
 RL-based grasping system using PPO actor-critic for continuous joint control of Poppy Ergo Jr. Currently extending this to co-train with adversarial object generators.
 `Python` `PyTorch` `Pybullet` `PPO`
@@ -36,7 +40,7 @@ Built a small transformer from scratch, then fine-tuned it to convert Shakespear
 | Category | Technologies |
 |:---------|:-------------|
 | Languages | Python, C++, C, SQL |
-| ML/RL | PyTorch, TensorFlow, PPO, Actor-Critic, Offline RL (IQL, AWAC, TD3+BC), Imitation Learning, Meta-Learning, Fine-Tuning |
+| ML/RL | PyTorch, TensorFlow, PPO, Actor-Critic, Offline RL (IQL, AWAC, TD3+BC), Imitation Learning (ACT, BC), Meta-Learning, Fine-Tuning |
 | Robotics | MuJoCo, Isaac Sim, robosuite, robomimic, ROS/ROS2, SLAM, Pybullet |
 | Tools | Git, Docker, HuggingFace, LangChain |
 ## 📫 Contact
