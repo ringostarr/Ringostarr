@@ -1,6 +1,7 @@
 # Hi, I'm Akshay 👋
 **PhD in Computer Science | Robotics & Reinforcement Learning**
 I recently completed my PhD at Syracuse University, where I worked on training robust RL policies for robotic manipulation using adversarial co-training. My research focuses on making robots that don't break when they encounter objects they haven't seen before.
+Currently working as a robotics engineer at swaayatt robots.
 ## 🔬 Research
 My PhD work centered on co-training RL-based grasping policies with adversarial object generators. Instead of collecting more data, I built systems that automatically generate the objects most likely to break a policy, then train on those.
 **Key contributions:**
